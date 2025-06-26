@@ -1,0 +1,25 @@
+{
+  "name": "drx-essentials",
+  "displayName": "drx-essentials",
+  "description": "🚀 My essential VSCode pack – polished for focus and speed.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.101.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "repository": {},
+  "icon": "icon.png",
+  "extensionPack": [ 
+    "beardedbear.beardedtheme",
+    "yahyabatulu.vscode-markdown-alert",
+    "bierner.markdown-checkbox",
+    "bierner.markdown-emoji",
+    "bierner.markdown-footnotes",
+    "bierner.markdown-mermaid",
+    "pkief.material-icon-theme",
+    "usernamehw.errorlens",
+    "yzhang.markdown-all-in-one"
+  ]
+}
