@@ -9,7 +9,9 @@
   "categories": [
     "Extension Packs"
   ],
-  "repository": {},
+  "repository": {
+    "url": "https://github.com/ArcadeCode/drx-essentials"
+  },
   "icon": "icon.png",
   "extensionPack": [ 
     "beardedbear.beardedtheme",
